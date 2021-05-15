@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //jet pistole
     public class CartItem : ILineItem
     {
         [Key]
